@@ -16,26 +16,26 @@ import SubmitePage from "../pages/SubmitePage";
 const students = [
   {
     id: 5,
-    title: "Barsbek Makhmatov",
+    title: "Lionel Messi",
   },
   {
     id: 2,
-    title: "Zhakshylyk Nasipbekov",
+    title: "Lionel Mateo",
   },
   {
     id: 3,
-    title: "Abdukadyrov Ali",
+    title: "Ali Samatov",
   },
 ];
 
 const material = [
   {
     id: 1,
-    title: "Lesson 17 (Routers)",
+    title: "Lesson 17",
   },
   {
     id: 2,
-    title: "Session 18 (Routers)",
+    title: "Session 18 ",
   },
 ];
 

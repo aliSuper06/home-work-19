@@ -14,7 +14,9 @@ export const MaterialDetails = ({ material }) => {
       <Container>
         <DetailDiv>
           <h1>Material DETAIL page</h1>
-          <h3>{findedMaterial.id}:  {findedMaterial.title}</h3>
+          <h3>
+            {findedMaterial.id}: {findedMaterial.title}
+          </h3>
           <Button onClick={() => navigate("/courses/materials")}>
             Go to MATERIAL page
           </Button>
@@ -66,10 +68,10 @@ const Container = styled.div`
 const DetailDiv = styled.div`
   padding-left: 40px;
   padding-top: 30px;
-  h3{
+  h3 {
     color: aliceblue;
   }
-  h1{
+  h1 {
     color: aliceblue;
   }
 `;

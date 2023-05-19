@@ -7,7 +7,7 @@ export const NotificationPage = () => {
   const navigate = useNavigate()
   return (
     <Container>
-      <h1>Notification 📩</h1>
+      <h1>Notification </h1>
       <Button onClick={()=> navigate("/courses")}>Go to COURSES page</Button>
     </Container>
   );

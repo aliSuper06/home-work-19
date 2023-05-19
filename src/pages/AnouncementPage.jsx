@@ -10,7 +10,7 @@ export const AnouncementPage = () => {
   };
   return (
     <Container>
-      <h1>Anouncement 📬</h1>
+      <h1>Anouncement </h1>
       <Button onClick={goToStudent}>Go to STUDENTS page</Button>
     </Container>
   );

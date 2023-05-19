@@ -4,7 +4,7 @@ import { styled } from "styled-components";
 const LatePage = () => {
   return (
     <Container>
-      <h2>Late page ⏳</h2>
+      <h2>Late page </h2>
     </Container>
   );
 };

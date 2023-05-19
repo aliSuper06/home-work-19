@@ -10,7 +10,7 @@ export const SchedulePage = () => {
   };
   return (
     <Container>
-      <h1>Schedule page  📝</h1>
+      <h1>Schedule page </h1>
       <Button onClick={goToNotification}>Go to NOTIFICATION page</Button>
     </Container>
   );

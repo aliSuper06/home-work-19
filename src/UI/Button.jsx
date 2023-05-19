@@ -13,6 +13,15 @@ const MyButton = styled.button`
   color: #fff;
   font-size: 20px;
   font-weight: 600;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #497a49;
+  }
+
+  &:active {
+    background-color: #355835;
+  }
 `;
 
 export default Button;

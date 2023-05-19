@@ -32,7 +32,7 @@ const Container = styled.div`
 `;
 
 const MiniContainer = styled.div`
-  background-color: #97c8f3;
+  background-color: #5a5c5d;
   border-radius: 10px;
   padding: 15px;
   text-align: center;
